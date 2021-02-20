@@ -5,6 +5,13 @@ import seaborn as sns
 from scipy import stats
 
 
+#https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+#https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+#https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+#https://www.dataoptimal.com/data-science-projects-2018/
+
+
+
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
